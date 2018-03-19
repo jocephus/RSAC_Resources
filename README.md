@@ -14,21 +14,21 @@
 *	[Monthly CSO Piece “Advanced Persistent Security”](http://bit.ly/2tMyGO1)
 *	[How I Infiltrated a Fortune 500 Company with Social Engineering, Dark Reading](http://ubm.io/2FDIvze)
 *	[Creating a Social Engineering Awareness Program (Series), CISOCast](http://bit.ly/2k06c4f)
-*	[Top 12 Guest Bloggers of 2016](Alienvault (Rated #3)](http://bit.ly/2kkguoi)
-*	[Dyn DDOS](What it Means for Supply Chain Security, Tripwire](http://bit.ly/2kq0wjb)
+*	[Top 12 Guest Bloggers of 2016: Alienvault (Rated #3)](http://bit.ly/2kkguoi)
+*	[Dyn DDOS: What it Means for Supply Chain Security, Tripwire](http://bit.ly/2kq0wjb)
 *	[When Friendly Thermostats & Toasters Join the IOT Darkside, ITSP Magazine](http://bit.ly/2jzqvdc)
 *	[Burgling from an OSINT Point of View, Tripwire](http://bit.ly/2lna0yv)
 *	[What is Insider Threat?, Alienvault](http://bit.ly/2llcw2w)
-*	[Password Protection Through COMPLEXITY and Awareness, Alienvault](http://bit.ly/2bifmep)
+*	[Password Protection Through Complexity and Awareness, Alienvault](http://bit.ly/2bifmep)
 
 ### Podcasts and Guest Appearances
 *	[Personal Podcast (Information Security Topics)](https://advancedpersistentsecurity.net)
-*	[2016 Holiday Security Podcast Mashup, Topic](2016 In Review](HTTP://BIT.LY/2KQ2TPE)
-*	[Brakeing Down Security Podcast, Topic](Application Security (with Dr. Gary McGraw)](HTTP://BIT.LY/2KEPNJI)
-*	[Human Factor Podcast, Topic](Social Engineering](HTTP://BIT.LY/2LHDAGC)
+*	[2016 Holiday Security Podcast Mashup, Topic: 2016 In Review](HTTP://BIT.LY/2KQ2TPE)
+*	[Brakeing Down Security Podcast, Topic: Application Security (with Dr. Gary McGraw)](HTTP://BIT.LY/2KEPNJI)
+*	[Human Factor Podcast, Topic: Social Engineering](HTTP://BIT.LY/2LHDAGC)
 *	[Buzz Off with Lawyer Liz](HTTP://BIT.LY/2FAU1IZ)
 *	[Paul’s Security Weekly Episode 540](http://bit.ly/2CWpFm5)
-*	[Purple Squad Security, Topic](OSINT](http://bit.ly/2DoOYMt)
+*	[Purple Squad Security, Topic: OSINT](http://bit.ly/2DoOYMt)
 
 
 ## Social Engineering Resources
