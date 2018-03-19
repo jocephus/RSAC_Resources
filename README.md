@@ -35,5 +35,6 @@
 
 
 ## OSINT Resources
+* [So you wanna OSINT (Joe's Repository on Peerlyst)](https://www.peerlyst.com/posts/so-you-wanna-osint-resources-and-reading-for-those-interested-in-osint-joe-gray?trk=joes_rsac_github)
 
 
