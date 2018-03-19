@@ -32,9 +32,27 @@
 
 
 ## Social Engineering Resources
-
+* [Social Engineering Wiki (Peerlyst)](https://www.peerlyst.com/posts/the-social-engineering-wiki-peerlyst?trk=joes_rsac_github)
+* [Social Engineer.org](https://www.social-engineer.org)
 
 ## OSINT Resources
 * [So you wanna OSINT (Joe's Repository on Peerlyst)](https://www.peerlyst.com/posts/so-you-wanna-osint-resources-and-reading-for-those-interested-in-osint-joe-gray?trk=joes_rsac_github)
+
+## Social Engineering Tools
+* [Social Engineer Toolkit]()
+* [PWDlogy]()
+* 
+
+## OSINT Tools
+* [OSINT Framework](https://osintframework.com)
+* [Intel Techniques](https://inteltechniques.com)
+* [Recon-ng]()
+* [Datasploit]()
+* [The Harvester]()
+* [Onion Scan]()
+* [Indeed Resume Search (by name and company)]()
+* [Google]()
+* [Maltego]()
+*
 
 
