@@ -9,6 +9,7 @@
 * [IAPP: Her job was to infiltrate](https://iapp.org/news/a/the-privacy-advisor-podcast-her-job-was-to-infiltrate/?lipi=urn:li:page:d_flagship3_profile_view_base;jModuSSTRiWWrohenhMH8w==)
 
 ## Joe's Publications and Media
+>[Link to rolling updated document](https://advancedpersistentsecurity.net/speaking-history/)
 ### Blog and Guest Blog Appearances
 *	[Personal Blog (Information Security Topics)](https://advancedpersistentsecurity.net)
 *	[Monthly CSO Piece “Advanced Persistent Security”](http://bit.ly/2tMyGO1)
